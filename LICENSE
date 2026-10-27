@@ -1,4 +1,19 @@
-                                 Apache License
+========================================================================
+COMMERCIAL / SOURCE-AVAILABLE LICENSE ADDENDUM
+========================================================================
+Copyright (c) 2026 Hypernova Tech LLC
+
+Use, copying, and modification of this software are permitted subject to 
+the following restrictions:
+
+1. The copyright notice above and this addendum must be retained in all copies.
+2. Modifications to the software must not circumvent, disable, remove, 
+   or alter any license key validation code, telemetry, or enforcement mechanisms.
+
+If you exceed free-tier limits or require enterprise capabilities, 
+you must acquire a commercial license from <YOUR COMPANY / WEBSITE>.
+
+========================================================================                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +201,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2026 Hypernova Tech LLC
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
